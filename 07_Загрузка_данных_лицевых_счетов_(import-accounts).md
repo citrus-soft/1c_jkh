@@ -1,4 +1,27 @@
-[TOC]
+<!-- MarkdownTOC autolink="true" -->
+
+- [Пример](#%D0%9F%D1%80%D0%B8%D0%BC%D0%B5%D1%80)
+- [Описание элементов](#%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5-%D1%8D%D0%BB%D0%B5%D0%BC%D0%B5%D0%BD%D1%82%D0%BE%D0%B2)
+	- [Варианты данных](#%D0%92%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D1%8B-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85)
+		- [`filetype="access"`](#filetypeaccess)
+		- [`filetype="calculations"`](#filetypecalculations)
+		- [`filetype="accounts"`](#filetypeaccounts)
+	- [`contractors`](#contractors)
+		- [`contractor`](#contractor)
+		- [Исполнитель услуг](#%D0%98%D1%81%D0%BF%D0%BE%D0%BB%D0%BD%D0%B8%D1%82%D0%B5%D0%BB%D1%8C-%D1%83%D1%81%D0%BB%D1%83%D0%B3)
+	- [`hmeters`](#hmeters)
+		- [`hmeter`](#hmeter)
+	- [`PersAcc`](#persacc)
+		- [`barcode`](#barcode)
+		- [`item`](#item)
+		- [`item_debt`](#item_debt)
+		- [`meter`](#meter)
+		- [`credit`](#credit)
+		- [`correction`](#correction)
+		- [contractor](#contractor-1)
+
+<!-- /MarkdownTOC -->
+
 
 Выгрузка данных производится программно по протоколу обмена данными, либо на странице *Сервисы — ТСЖ — Обмен — Импорт* в [административной части](http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=35&LESSON_ID=2833#admin) сайта.
 
