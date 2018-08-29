@@ -1,3 +1,13 @@
+<!-- MarkdownTOC autolink="true" -->
+
+- [Пример файла](#%D0%9F%D1%80%D0%B8%D0%BC%D0%B5%D1%80-%D1%84%D0%B0%D0%B9%D0%BB%D0%B0)
+- [Описание элементов](#%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5-%D1%8D%D0%BB%D0%B5%D0%BC%D0%B5%D0%BD%D1%82%D0%BE%D0%B2)
+    - [`responsible_users`](#responsible_users)
+    - [`responsible_user`](#responsible_user)
+
+<!-- /MarkdownTOC -->
+
+
 Загрузка данных производится на странице *Сервисы — ТСЖ: Аварийно-диспетчерская служба — Импорт подрядных организаций* в [административной части](http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=35&LESSON_ID=2833#admin) сайта.
 
 На сайте будут созданы (или обновлены) данные пользователей, указанных в файле.
