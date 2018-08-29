@@ -16,7 +16,7 @@
 
 ## `responsible_users`
 
-Корневой элемент файла. Содержит элементы [`responsible_user`](#Описание-элементов_responsible_user).
+Корневой элемент файла. Содержит элементы [`responsible_user`](#responsible_user).
 
 **Атрибуты**
 
